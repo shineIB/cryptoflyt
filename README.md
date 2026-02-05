@@ -2,6 +2,9 @@
 
 A real-time cryptocurrency dashboard with price alerts, portfolio tracking, and AI-powered market analysis.
 
+![17703277414995708817871352985069](https://github.com/user-attachments/assets/44eadab0-a908-4cab-8aac-6522dacd4d74)
+
+
 ## Features
 
 - 📈 **Real-time Prices** - Live streaming from Bybit WebSocket
