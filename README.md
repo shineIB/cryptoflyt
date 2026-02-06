@@ -2,7 +2,7 @@
 
 A real-time cryptocurrency dashboard with price alerts, portfolio tracking, and AI-powered market analysis.
 
-![17703277414995708817871352985069](https://github.com/user-attachments/assets/44eadab0-a908-4cab-8aac-6522dacd4d74)
+![1770369441635697491674696547743](https://github.com/user-attachments/assets/efd4493a-516f-4674-9db4-2d260c03f404)
 
 
 ## Features
